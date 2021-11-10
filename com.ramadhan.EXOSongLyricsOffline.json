@@ -1,0 +1,220 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/103317371x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 25,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "EXO Song",
+      "image": "file:///android_asset/image/gambar.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "EXO Song",
+      "title": "Telephone",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/01Telephone.mp3",
+      "duration": "195",
+      "lyrics": "" 
+	},
+    {
+      "id": 2,
+      "name_category": "EXO Song",
+      "title": "Been Through (Exploration Version)",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/02BeenThrough(ExplorationVersion).mp3",
+      "duration": "102",
+      "lyrics": "" 
+	},
+    {
+      "id": 3,
+      "name_category": "EXO Song",
+      "title": "Been Through",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/03BeenThrough.mp3",
+      "duration": "218",
+      "lyrics": "" 
+	},
+    {
+      "id": 4,
+      "name_category": "EXO Song",
+      "title": "Call Me Baby",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/04CallMeBaby.mp3",
+      "duration": "21",
+      "lyrics": "" 
+	},
+    {
+      "id": 5,
+      "name_category": "EXO Song",
+      "title": "Dancing King",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/05DancingKing.mp3",
+      "duration": "120",
+      "lyrics": "" 
+	},
+    {
+      "id": 6,
+      "name_category": "EXO Song",
+      "title": "EL Dorado",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/06ELDorado.mp3",
+      "duration": "239",
+      "lyrics": "" 
+	},
+    {
+      "id": 7,
+      "name_category": "EXO Song",
+      "title": "Electric Kiss",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/07ElectricKiss.mp3",
+      "duration": "158",
+      "lyrics": "" 
+	},
+    {
+      "id": 8,
+      "name_category": "EXO Song",
+      "title": "Growl",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/08Growl.mp3",
+      "duration": "205",
+      "lyrics": "" 
+	},
+    {
+      "id": 9,
+      "name_category": "EXO Song",
+      "title": "KOKOBOP",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/09KOKOBOP.mp3",
+      "duration": "190",
+      "lyrics": "" 
+	},
+    {
+      "id": 10,
+      "name_category": "EXO Song",
+      "title": "Lightsaber",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/10Lightsaber.mp3",
+      "duration": "185",
+      "lyrics": "" 
+	},
+    {
+      "id": 11,
+      "name_category": "EXO Song",
+      "title": "Lotto",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/11Lotto.mp3",
+      "duration": "189",
+      "lyrics": "" 
+	},
+    {
+      "id": 12,
+      "name_category": "EXO Song",
+      "title": "LOVE ME RIGHT",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/12LOVEMERIGHT.mp3",
+      "duration": "205",
+      "lyrics": "" 
+	},
+    {
+      "id": 13,
+      "name_category": "EXO Song",
+      "title": "Lucky One",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/13LuckyOne.mp3",
+      "duration": "227",
+      "lyrics": "" 
+	},
+    {
+      "id": 14,
+      "name_category": "EXO Song",
+      "title": "Overdose",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/14Overdose.mp3",
+      "duration": "206",
+      "lyrics": "" 
+	},
+    {
+      "id": 15,
+      "name_category": "EXO Song",
+      "title": "MAMA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/15MAMA.mp3",
+      "duration": "268",
+      "lyrics": "" 
+	},
+    {
+      "id": 16,
+      "name_category": "EXO Song",
+      "title": "MIracles In December",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/16MIraclesInDecember.mp3",
+      "duration": "273",
+      "lyrics": "" 
+	},
+    {
+      "id": 17,
+      "name_category": "EXO Song",
+      "title": "Monster",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/17Monster.mp3",
+      "duration": "221",
+      "lyrics": "" 
+	},
+    {
+      "id": 18,
+      "name_category": "EXO Song",
+      "title": "Promise",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/18Promise.mp3",
+      "duration": "287",
+      "lyrics": "" 
+	},
+    {
+      "id": 19,
+      "name_category": "EXO Song",
+      "title": "Sing For You",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/19SingForYou.mp3",
+      "duration": "235",
+      "lyrics": "" 
+	},
+    {
+      "id": 20,
+      "name_category": "EXO Song",
+      "title": "The Eve",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/20TheEve.mp3",
+      "duration": "176",
+      "lyrics": "" 
+	},
+    {
+      "id": 21,
+      "name_category": "EXO Song",
+      "title": "For Live",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/21ForLive.mp3",
+      "duration": "238",
+      "lyrics": "" 
+	}
+  ]
+}
