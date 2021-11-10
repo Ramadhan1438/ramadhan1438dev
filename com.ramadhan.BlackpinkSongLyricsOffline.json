@@ -1,0 +1,283 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-3940256099942544/630097811x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/103317371x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 25,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "catexgory",
+      "image": "file:///android_asset/image/gambar.jpg"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "catexgory",
+      "title": "GONE-ROSE",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/01GONE-ROSE.mp3",
+      "duration": "207",
+      "lyrics": "" 
+	},
+    {
+      "id": 2,
+      "name_category": "catexgory",
+      "title": "LALISA-LISA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/02LALISA-LISA.mp3",
+      "duration": "200",
+      "lyrics": "" 
+	},
+    {
+      "id": 3,
+      "name_category": "catexgory",
+      "title": "MONEY-LISA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/03MONEY-LISA.mp3",
+      "duration": "168",
+      "lyrics": "" 
+	},
+    {
+      "id": 4,
+      "name_category": "catexgory",
+      "title": "HOW YOU LIKE THAT",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/04HOWYOULIKETHAT.mp3",
+      "duration": "175",
+      "lyrics": "" 
+	},
+    {
+      "id": 5,
+      "name_category": "catexgory",
+      "title": "LOVE SICK GIRL",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/05LOVESICKGIRL.mp3",
+      "duration": "189",
+      "lyrics": "" 
+	},
+    {
+      "id": 6,
+      "name_category": "catexgory",
+      "title": "PRETTY SAVAGE",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/06PRETTYSAVAGE.mp3",
+      "duration": "196",
+      "lyrics": "" 
+	},
+    {
+      "id": 7,
+      "name_category": "catexgory",
+      "title": "ICE CREAM",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/07ICECREAM.mp3",
+      "duration": "174",
+      "lyrics": "" 
+	},
+    {
+      "id": 8,
+      "name_category": "catexgory",
+      "title": "LOVE TO HATE ME",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/08LOVETOHATEME.mp3",
+      "duration": "169",
+      "lyrics": "" 
+	},
+    {
+      "id": 9,
+      "name_category": "catexgory",
+      "title": "YOU NEVER KNOW",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/09YOUNEVERKNOW.mp3",
+      "duration": "216",
+      "lyrics": "" 
+	},
+    {
+      "id": 10,
+      "name_category": "catexgory",
+      "title": "BET YOU WANNA",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/10BETYOUWANNA.mp3",
+      "duration": "156",
+      "lyrics": "" 
+	},
+    {
+      "id": 11,
+      "name_category": "catexgory",
+      "title": "CRAZY OVER YOU",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/11CRAZYOVERYOU.mp3",
+      "duration": "159",
+      "lyrics": "" 
+	},
+    {
+      "id": 12,
+      "name_category": "catexgory",
+      "title": "KISS AND MAKE UP",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/12KISSANDMAKEUP.mp3",
+      "duration": "188",
+      "lyrics": "" 
+	},
+    {
+      "id": 13,
+      "name_category": "catexgory",
+      "title": "DDU-DUDDU-DU",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/13DDU-DUDDU-DU.mp3",
+      "duration": "206",
+      "lyrics": "" 
+	},
+    {
+      "id": 14,
+      "name_category": "catexgory",
+      "title": "KICK IT",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/14KICKIT.mp3",
+      "duration": "188",
+      "lyrics": "" 
+	},
+    {
+      "id": 15,
+      "name_category": "catexgory",
+      "title": "SOLO",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/15SOLO.mp3",
+      "duration": "163",
+      "lyrics": "" 
+	},
+    {
+      "id": 16,
+      "name_category": "catexgory",
+      "title": "FOREVER YOUNG",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/16FOREVERYOUNG.mp3",
+      "duration": "232",
+      "lyrics": "" 
+	},
+    {
+      "id": 17,
+      "name_category": "catexgory",
+      "title": "SEE U LATER",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/17SEEULATER.mp3",
+      "duration": "194",
+      "lyrics": "" 
+	},
+    {
+      "id": 18,
+      "name_category": "catexgory",
+      "title": "SOUR CANDY",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/18SOURCANDY.mp3",
+      "duration": "157",
+      "lyrics": "" 
+	},
+    {
+      "id": 19,
+      "name_category": "catexgory",
+      "title": "STAY",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/19STAY.mp3",
+      "duration": "228",
+      "lyrics": "" 
+	},
+    {
+      "id": 20,
+      "name_category": "catexgory",
+      "title": "AS IF ITS YOUR LAST",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/20ASIFITSYOURLAST.mp3",
+      "duration": "209",
+      "lyrics": "" 
+	},
+    {
+      "id": 21,
+      "name_category": "catexgory",
+      "title": "BOOMBAYAH",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/21BOOMBAYAH.mp3",
+      "duration": "238",
+      "lyrics": "" 
+	},
+    {
+      "id": 22,
+      "name_category": "catexgory",
+      "title": "DONT KNOW WHAT TO DO",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/22DONTKNOWWHATTODO.mp3",
+      "duration": "196",
+      "lyrics": "" 
+	},
+    {
+      "id": 23,
+      "name_category": "catexgory",
+      "title": "HOPE NOT",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/23HOPENOT.mp3",
+      "duration": "186",
+      "lyrics": "" 
+	},
+    {
+      "id": 24,
+      "name_category": "catexgory",
+      "title": "KILL THIS LOVE",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/24KILLTHISLOVE.mp3",
+      "duration": "187",
+      "lyrics": "" 
+	},
+    {
+      "id": 25,
+      "name_category": "catexgory",
+      "title": "PLAYING WITH FIRE",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/25PLAYINGWITHFIRE.mp3",
+      "duration": "193",
+      "lyrics": "" 
+	},
+    {
+      "id": 26,
+      "name_category": "catexgory",
+      "title": "REALLY",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/26REALLY.mp3",
+      "duration": "193",
+      "lyrics": "" 
+	},
+    {
+      "id": 27,
+      "name_category": "catexgory",
+      "title": "SO HOT",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/27SOHOT.mp3",
+      "duration": "136",
+      "lyrics": "" 
+	},
+    {
+      "id": 28,
+      "name_category": "catexgory",
+      "title": "WHISTLE",
+      "image": "file:///android_asset/image/gambar.jpg",
+      "link_mp3": "mp3/28WHISTLE.mp3",
+      "duration": "209",
+      "lyrics": "" 
+	}
+  ]
+}
